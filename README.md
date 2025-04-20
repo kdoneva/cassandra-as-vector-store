@@ -1,5 +1,5 @@
 # cassandra-as-vector-store
-Simple example of using Apache Cassandra as Vector Store in RAG workflow combined with Free model from Together
+Simple example of using Apache Cassandra as Vector Store in RAG workflow combined with free model from [Together](https://www.together.ai/)
 ## How to get Cassandra as a docker image
 
 Execute this to pull the latest image with Cassandra 5
