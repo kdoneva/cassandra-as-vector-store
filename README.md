@@ -56,6 +56,3 @@ The table is empty after each run it is deleted, so you should be seeing somethi
 
 > ⚠️ **Security Warning**  
 > SSL verification is disabled for LLM API requests (not recommended for production)
-
-
-
