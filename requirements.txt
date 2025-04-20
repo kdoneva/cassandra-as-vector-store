@@ -1,0 +1,6 @@
+python-dotenv>=1.1.0
+langchain-community>=0.3.21
+cassandra-driver>=3.29.2
+langchain-huggingface>=0.1.2
+cassio>=0.1.10
+together>= 1.5.5
